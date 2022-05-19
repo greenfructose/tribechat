@@ -1,5 +1,5 @@
-import React from "react";
+import React from 'react';
 
 export default function Auth() {
-  return <div className="background">auth</div>;
+  return <div className='background'>auth</div>;
 }
